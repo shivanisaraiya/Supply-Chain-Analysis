@@ -1,0 +1,201 @@
+ProductID,ProductName,Category,SupplierID,UnitPrice_NGN,StockQuantity,ProductStatus,LaunchDate,Weight_kg
+P0001,Happy Live Instead Pro,Groceries & Gourmet Food,S002,2706.38,1063,active,2023/03/03,41.57
+P0002,International Character Plus,Apparel & Accessories,S002,672.6,-11,outofstock,2023/03/08,1.99
+P0003,Believe National Put Pro,Health & Beauty,S009,212229.2,687,outofstock,2023/03/08,11.27
+P0004,Your Provide Yourself Basic,Groceries & Gourmet Food,S013,129048.65,0,outofstock,2023/03/10,0
+P0005,Catch Shoulder Least A Eco,Automotive Parts,S004,210854.43,91,outofstock,2023/03/13,5.62
+P0006,Certain Partner Sense 844,Books & Media,S013,132878.27,88,active,2023/03/14,37.34
+P0007,Against So Alone Deluxe,Electronics,S010,100.01,,discontinued,2023/03/18,36.85
+P0008,Carved Serve Level Measure Eco,Local Crafts,S014,106158.04,,discontinued,2023/03/18,22.97
+P0009,Put So Everything Single Basic,Apparel & Accessories,S005,238844.99,449,active,2023/03/19,3.09
+P0010,Ankara Story Reveal Vote Even Deluxe,Nigerian Fashion,S013,72038.66,592,coming soon,2023/03/23,38.69
+P0011,Send Bag Really Human 398,Electronics,S012,186375.13,783,discontinued,2023/03/24,0.23
+P0012,Foot History Stand Work Eco,Sports & Outdoors,S007,86067.24,303,discontinued,2023/03/31,46.77
+P0013,Carved Author Character Pro,Local Crafts,S008,31018.41,978,,2023/04/07,21.24
+P0014,Dinner Baby Him Pro,Home & Kitchen,S004,142523.8,33,outofstock,2023/04/10,49.46
+P0015,Several Consider Pro,Sports & Outdoors,S007,1397.98,0,outofstock,2023/04/13,42.19
+P0016,Ready Letter Network Really Pro,Toys & Games,S009,215445.24,-11,outofstock,2023/04/28,1.85
+P0017,Dinner My Send Energy Basic,Toys & Games,S011,37085.63,422,active,2023/04/29,29.49
+P0018,Professional Case Affect 230,Groceries & Gourmet Food,S005,135750.99,767,active,2023/05/01,8.19
+P0019,Carved Too Top Quite Else Eco,Local Crafts ,S011,132190.6,,coming soon,2023/04/05,14.12
+P0020,Total Mouth Basic,Home & Kitchen,S011,95936.15,1450,outofstock,2023/05/09,3.39
+P0021,Use Court Make Deluxe,Books & Media,S013,232047.74,516,active,2023/05/15,0
+P0022,Me Industry Popular Plus,Electronics,S004,188518.38,1059,coming soon,2023/05/17,6.6
+P0023,Source Question Plus,Sports & Outdoors,S007,163080.05,,discontinued,2023/05/19,16.35
+P0024,Fact Goal Something Deluxe,Apparel & Accessories,S011,141987.13,385,active,2023/05/31,46.57
+P0025,What Cut On Deluxe,Office Supplies,S013,119398.77,812,active,2023/06/09,0
+P0026,Both Television Basic,Automotive Parts,S004,161957.83,804,coming soon,2023/06/11,0
+P0027,History Everyone Very Rise Plus,Apparel & Accessories,S003,143103.98,202,outofstock,2023/06/12,0
+P0028,Wonder Individual Soon Basic,Toys & Games,S002,54349.9,1137,active,2023/06/14,0
+P0029,Adire Family Your Social Suffer Deluxe,Local Crafts,S015,41315.77,1026,discontinued,2023/06/14,0
+P0030,Human Tree Chair Note Pro,Office Supplies,S003,101208.48,449,discontinued,2023/06/16,24.79
+P0031,As Part 672,Electronics,S005,175301.67,1400,active,2023/06/29,23.04
+P0032,Adire Tv From Total Pro,local crafts,S006,46868.26,1272,outofstock,2023/07/04,0
+P0033,Serve Computer First Basic,Electronics,S006,111996.53,1108,active,2023/07/09,36.39
+P0034,Might There Research Heart 119,Groceries & Gourmet Food,S003,85412.67,1067,active,2023/07/10,3.44
+P0035,Woven Case Recently Wall Continue Deluxe,Nigerian Fashion,S010,27593.45,1198,discontinued,2023/07/12,22.06
+P0036,Woven Pattern Day Herself Eco,Local Crafts,S003,119677.29,991,,2023/07/18,46.71
+P0037,Against Watch 491,Apparel & Accessories,S014,10002.29,,active,2023/07/23,22.91
+P0038,Raise Shoulder 899,Automotive Parts,S011,99673.58,0,outofstock,2023/07/24,45.03
+P0039,Dream Certainly Manage Rock Plus,Automotive Parts,S006,71420.94,-7,outofstock,2023/07/25,20.19
+P0040,Drive Agent One Assume Plus,Groceries & Gourmet Food,S006,172665.36,498,outofstock,2023/07/30,15.25
+P0041,Hand Center Audience Deluxe,Sports & Outdoors,S002,204529.85,476,active,2023/07/31,0.98
+P0042,Left Action Believe Through Eco,Toys & Games,S005,199311.81,,coming soon,2023/08/02,33.04
+P0043,Season Eight Plus,Automotive Parts,S004,163654.47,696,discontinued,2023/08/03,0.53
+P0044,Carved Team Determine Ahead Government Plus,Nigerian Fashion,S003,46451.3,4,active,2023/08/13,0
+P0045,My Less Pro,Health & Beauty,S005,15773.73,890,coming soon,2023/08/15,14.08
+P0046,Traditional Develop Appear 981,Apparel & Accessories,S009,228515.76,847,outofstock,2023/08/22,36.49
+P0047,Hand Firm Basic,Groceries & Gourmet Food,S013,136656.64,423,active,2023/08/29,22.07
+P0048,Clearly Move 585,Groceries & Gourmet Food,S004,186953.78,0,outofstock,2023/09/21,0
+P0049,Body Discuss Long Particular Basic,Books & Media,S005,194612.44,-4,outofstock,2023/09/22,23.99
+P0050,Ready Morning We Eco,Health & Beauty,S002,26203.38,751,discontinued,2023/09/28,40.12
+P0051,Now No Eco,Office Supplies,S014,49992.58,1196,active,2023/10/13,38.37
+P0052,Group Particularly Deluxe,Books & Media,S008,123072.75,1095,discontinued,2023/10/13,11.59
+P0053,Mean Sense Finish Cup Basic,Books & Media,S013,8742.41,767,discontinued,2023/10/27,9.28
+P0054,Music For Eco,Electronics,S003,84084.67,71,coming soon,2023/10/28,6.98
+P0055,Tonight Price Eco,Groceries & Gourmet Food,S008,101085.84,902,outofstock,2023/11/20,0
+P0056,Woven Listen Although 464,Local Crafts,S011,237349.58,1357,outofstock,2023/11/25,16.44
+P0057,Step Scene Production Pro,Groceries & Gourmet Food,S008,174349.69,160,,2023/11/25,13.88
+P0058,Member Beat Common Plus,Electronics,S013,48717.41,330,discontinued,2023/11/26,5.82
+P0059,Beaded Letter Clearly Basic,Nigerian Fashion,S015,64595.52,1010,outofstock,2023/12/08,43.49
+P0060,Then Purpose Same Well Deluxe,Home & Kitchen,S003,226464.53,262,outofstock,2023/12/12,0
+P0061,Food World Eco,Automotive Parts,S011,143070.43,865,active,2023/12/20,4.32
+P0062,Give Owner West 791,Automotive Parts,S005,232281.79,668,discontinued,2023/12/23,18.14
+P0063,Push Job Man System Plus,Groceries & Gourmet Food,S006,197770.16,788,outofstock,2023/12/23,3.69
+P0064,Benefit Charge Eco,Home & Kitchen,S011,235004.33,1314,active,2024/01/12,0
+P0065,Report Drop Green Eco, Toys & Games ,S011,117335.86,857,outofstock,2024/01/18,4.29
+P0066,Cost Can Eco,Toys & Games,S005,9822.32,-46,outofstock,2024/01/19,12.96
+P0067,People Us Painting Try Deluxe,Electronics,S013,-1000,585,active,2024/02/12,9.46
+P0068,You Seek Both Plus, Health & Beauty,S008,28103.6,1050,outofstock,2024/02/20,10.19
+P0069,Anyone Body Last Pro,Books & Media,S007,142888.12,931,outofstock,2024/02/22,11.7
+P0070,Either Necessary Region Practice Pro,Home & Kitchen,S003,53927.28,432,coming soon,2024/02/24,27.81
+P0071,Control However Garden Pro,Office Supplies,S006,133503.06,648,coming soon,2024/02/24,0
+P0072,Foreign Scientist Set Value Basic,Apparel & Accessories,S010,95890.74,676,outofstock,2024/02/26,12.01
+P0073,Beaded Laugh Method Blood Deluxe,Nigerian Fashion,S007,223617.89,181,,2024/03/07,39.39
+P0074,Clearly Very Home Yourself 277,Home & Kitchen,S004,164821.96,530,active,2024/03/11,45.36
+P0075,Indicate Benefit First Deluxe,Toys & Games,S014,36911.28,1195,coming soon,2024/03/19,49.11
+P0076,Local Effect 788,Electronics,S011,307289.17,1455,outofstock,2024/03/25,4.58
+P0077,Southern Quality Born Deluxe,Apparel & Accessories,S012,91103.5,,active,2024/03/29,29.08
+P0078,Adire Page Focus Eco,Local Crafts,S014,188061.11,599,active,2024/03/29,6.07
+P0079,From Ready Him Leader Plus,Groceries & Gourmet Food,S001,159938.47,1454,active,2024/04/10,0
+P0080,Man Image Check Deluxe,Sports & Outdoors,S014,246547.97,1034,coming soon,2024/04/11,14.63
+P0081,Support Four Father Available Eco,Electronics,S004,128839.18,1142,outofstock,2024/04/13,37.79
+P0082,Their Information Plus,Health & Beauty,S009,86034.48,1281,coming soon,2024/04/14,20.86
+P0083,Street Own Season Plus,Groceries & Gourmet Food,S002,55732.84,1322,active,2024/04/17,15.75
+P0084,Produce Enter Property Eco,Home & Kitchen,S002,199966.94,1363,outofstock,2024/04/20,0
+P0085,Avoid Perform Hand 833,Automotive Parts,S015,113905.66,625,outofstock,2024/04/25,31.31
+P0086,Adire Executive Word Plus,Local Crafts,S006,81566.66,,active,2024/04/27,26.95
+P0087,Resource Sign Plus,Apparel & Accessories,S011,203145.58,650,discontinued,2024/04/30,47.28
+P0088,Their Story Base Pro,Home & Kitchen,S003,136919.65,923,coming soon,2024/05/04,24.3
+P0089,Say Entire Adult Basic,Toys & Games,S004,40916.82,944,coming soon,2024/05/10,32.85
+P0090,Adire Modern Report Focus Pro,Local Crafts,S004,123033.15,2,coming soon,2024/05/11,0
+P0091,Question Somebody Above Red Deluxe,Automotive Parts,S003,52761.32,1481,active,2024/05/29,23.84
+P0092,Institution Appear Leader Relate Basic,Home & Kitchen,S014,144098.05,844,coming soon,2024/06/04,21.28
+P0093,Second Design Themselves Single Pro,Health & Beauty,S010,47968.02,1291,coming soon,2024/06/05,23.59
+P0094,Expect Financial Success 930,Books & Media,S002,17351.26,1183,active,2024/06/14,9.91
+P0095,Everyone Leave Else Station 319,Office Supplies,S008,237359.85,1334,active,2024/06/15,8.81
+P0096,Whole Film Head Basic,Electronics,S008,307911.3,1232,coming soon,2024/06/17,19.29
+P0097,Carved Gun What Process Actually Eco,Nigerian Fashion,S010,67897.61,1066,coming soon,2024/06/18,0
+P0098,Much Recognize Deluxe,Automotive Parts,S015,3725.94,221,active,2024/06/20,34.21
+P0099,Structure Source My Answer Deluxe,Sports & Outdoors,S005,157163.75,1147,coming soon,2024/06/22,16.52
+P0100,Economy Build Test Vote 840,Home & Kitchen,S007,34447.23,-34,outofstock,2024/06/29,29.43
+P0101,His Represent Pro,Automotive Parts,S015,228767.53,219,active,2024/07/02,29.45
+P0102,Ten Media After Record Plus,Apparel & Accessories,S011,177782.15,918,,2024/07/03,17.36
+P0103,Wish West Democratic Eco, Sports & Outdoors,S004,16525.53,1276,active,2024/07/05,27.64
+P0104,Ankara Rather According Grow 759,Nigerian Fashion,S012,134426.24,4,active,2024/07/06,26.46
+P0105,Once Hot 670,Apparel & Accessories,S006,246476.08,1500,coming soon,2024/07/19,3.07
+P0106,Close Their 241,Groceries & Gourmet Food,S001,186764.88,1027,coming soon,2024/08/04,35.5
+P0107,Until Top Eco,Books & Media,S001,73041.13,675,outofstock,2024/08/04,36.36
+P0108,Law Their Plus,Automotive Parts,S006,190758.65,414,active,2024/08/06,22.22
+P0109,Car Notice Enter 814,Apparel & Accessories,S015,35886.26,533,active,2024/08/07,32.26
+P0110,Church Entire American Pro,Books & Media,S005,205084.36,994,coming soon,2024/08/12,21.95
+P0111,Out Material Person Subject Plus,Office Supplies,S009,100.01,1223,outofstock,2024/08/23,42.91
+P0112,End Tell 478,Books & Media,S013,48655.29,1274,discontinued,2024/08/30,7.15
+P0113,It Sense Instead Whatever Basic,Home & Kitchen,S012,93194.72,1366,outofstock,2024/09/12,18.86
+P0114,Mother All Order Deluxe,Health & Beauty,S005,152866.96,718,discontinued,2024/09/16,0
+P0115,Carved Section Bank 422,Nigerian Fashion,S002,100.01,1229,outofstock,2024/09/21,36.62
+P0116,Adire Care Others Level 735,Nigerian Fashion,S006,55987.23,736,,2024/09/29,40.7
+P0117,Have Upon Around Eco,Home & Kitchen,S003,167398.09,255,active,2024/10/03,11.62
+P0118,Woven Save Everyone 676,Local Crafts,S005,88653.93,512,coming soon,2024/10/07,29.08
+P0119,Tough Lawyer Chance 156,Health & Beauty,S009,11593.31,-19,outofstock,2024/10/08,33.15
+P0120,Woven Network Professional Strategy Sign Deluxe,Local Crafts,S006,171316.72,1393,discontinued,2024/10/10,31.95
+P0121,Push Clearly Reveal Over Basic,Groceries & Gourmet Food,S001,157713.06,822,active,2024/10/15,0
+P0122,Woven Finally Once Series Else Pro,Nigerian Fashion,S011,248012.8,654,active,2024/10/16,13.94
+P0123,Floor Total Basic,Office Supplies,S009,58518.57,323,outofstock,2024/10/27,44.99
+P0124,Focus Art Trouble Resource Plus,Health & Beauty,S009,175866.24,838,,2024/10/28,14.2
+P0125,Have Prevent Note Must 940,Toys & Games,S013,240877.13,82,discontinued,2024/11/04,29.67
+P0126,Adire Ability Civil Basic,Local Crafts,S013,43415.78,272,active,2024/11/04,0.36
+P0127,Laugh Main Opportunity Fund Plus,Home & Kitchen,S010,116035.82,113,active,2024/11/04,31.53
+P0128,Money War Marriage 375,Books & Media,S006,158305.55,1481,coming soon,2024/11/07,8.92
+P0129,Similar Even Eco,Groceries & Gourmet Food,S004,49832.08,590,active,2024/11/11,11.66
+P0130,Myself Relate Letter 234,Electronics,S007,207729.01,20,coming soon,2024/11/17,8.32
+P0131,Relationship Education Raise Seem Basic,Automotive Parts,S011,48870.15,26,active,2024/12/01,25.21
+P0132,Mr Idea Indicate Goal Plus,Books & Media,S010,238950.83,388,active,2024/12/16,27.08
+P0133,You Bad 600,Health & Beauty,S013,192798.88,0,outofstock,2024/12/18,49.68
+P0134,Beaded Away Where Eco,Local Crafts,S001,143004.19,1006,outofstock,2024/12/28,0
+P0135,Until Wrong Above Everyone Pro,Office Supplies,S006,146298.37,371,discontinued,2024/12/29,37.88
+P0136,Later Power Yet Pro,Office Supplies,S015,175906.22,640,discontinued,2024/12/30,0
+P0137,Woven Responsibility Option Eco,Local Crafts,S014,3472.54,206,coming soon,2024/12/31,4.42
+P0138,Important Minute 275,Electronics,S003,250441.12,1382,active,2025/01/02,12.88
+P0139,Figure Wife 435,Books & Media,S006,13071.21,1014,discontinued,2025/01/03,16.47
+P0140,Carved Sort Receive Send Model Pro,Local Crafts,S011,220975.97,5,active,2025/01/03,6.07
+P0141,Hospital Bring Basic,Health & Beauty,S010,30627.06,181,active,2025/01/03,7.2
+P0142,Myself Process 279,Health & Beauty,S009,81218.31,,active,2025/01/19,29.29
+P0143,Under Official End More 929,Toys & Games,S014,125560.88,655,coming soon,2025/01/20,0
+P0144,Hand Sure Eco,Automotive Parts (old),S008,162323.84,-22,outofstock,2025/01/25,0
+P0145,Local Voice Relationship Basic,Health & Beauty,S008,41330.19,689,discontinued,2025/02/03,0
+P0146,President When Basic,Electronics,S010,65481.49,163,coming soon,2025/02/08,0
+P0147,Difficult Speak Seek Plus,Health & Beauty,S003,242592.84,1488,outofstock,2025/02/09,8.12
+P0148,Music Local Pro,Groceries & Gourmet Food,S004,56936.4,578,discontinued,2025/02/12,49.95
+P0149,Realize Mean Politics Basic,Groceries & Gourmet Food,S002,97532.37,,,2025/02/21,45.45
+P0150,Woven Performance Couple See Executive Plus,Local Crafts,S013,197877.6,225,active,2025/02/23,0
+P0151,West Arrive Eco,Apparel & Accessories,S008,8547.53,122,active,2025/02/27,9.1
+P0152,Great On Lawyer Simple Plus,Apparel & Accessories,S015,177450.56,826,discontinued,2025/03/03,1.57
+P0153,Beaded Woman Necessary Basic,Local Crafts,S014,227776.2,615,active,2025/03/10,39.33
+P0154,Training Glass Eco,Electronics,S007,239535.53,74,discontinued,2025/03/11,28.69
+P0155,Realize Science Rich Always Basic,Automotive Parts,S015,92952.99,1061,active,2025/03/11,4.65
+P0156,Very Admit Deluxe,Health & Beauty,S004,99681.97,55,active,2025/03/18,31.2
+P0157,Beaded Agency Knowledge Pro,Local Crafts,S013,226254.43,1339,,2025/04/01,12.1
+P0158,Leg Heart Deluxe,Books & Media,S007,17146.51,1002,coming soon,2025/04/02,10.4
+P0159,Her Pick Eco,Health & Beauty,S004,15891.99,502,coming soon,2025/04/07,35.19
+P0160,Song Throw Reason Basic,Office Supplies,S013,182388.1,398,discontinued,2025/05/15,18.61
+P0161,Whom American Plus,Toys & Games,S010,129717.42,222,active,2025/05/15,27.12
+P0162,Woven Assume Him Gas Plus,Nigerian Fashion,S001,39166.85,156,active,2025/05/21,0.65
+P0163,Adire Fly Player Box Hundred 723,Nigerian Fashion,S005,137225.39,1376,active,2025/05/26,43.98
+P0164,Save Me Basic,Home & Kitchen,S015,247203.09,1291,discontinued,2025/05/28,38.01
+P0165,Particularly Finally Include Voice Basic,Sports & Outdoors,S006,52207.68,1041,coming soon,2025/05/28,46.96
+P0166,Anything High Eco,Home & Kitchen,S003,64508.59,706,active,2025/06/13,42.01
+P0167,Keep System Plus,Office Supplies,S012,59750.13,-48,outofstock,2025/06/15,16.72
+P0168,Adire First Level Pull Basic,Local Crafts,S002,142917.08,,active,2025/06/19,0
+P0169,Sister Add Will Plus,Books & Media,S007,154867.48,689,coming soon,2025/06/20,0
+P0170,Turn Throw Receive 781,Health & Beauty,S005,172669.42,568,active,2025/07/12,28.1
+P0171,White Boy Card Sit 987,Books & Media,S015,203138.04,796,outofstock,2025/07/26,32.47
+P0172,Beaded Network Result Deluxe,Local Crafts,S004,204048.87,1347,outofstock,2025/08/01,28.11
+P0173,Through Support Plus,Health & Beauty,S015,134350.5,1127,discontinued,2025/08/05,12.02
+P0174,Ankara Half Of Pro,Local Crafts,S006,147777.11,510,outofstock,2025/08/13,3.09
+P0175,Woven Table Director Argue Window Eco,Nigerian Fashion,S012,133865.93,1290,outofstock,2025/08/15,5
+P0176,Treatment Here Plus,Toys & Games,S014,118141.08,1048,coming soon,2025/08/17,16.82
+P0177,Send Anything Artist Deluxe,Electronics,S008,83981.08,143,active,2025/08/18,34.33
+P0178,Question Court Listen Pro,Sports & Outdoors,S004,147410.75,792,discontinued,2025/08/23,35.57
+P0179,Small Owner Plus,Groceries & Gourmet Food,S002,159113.18,1049,coming soon,2025/08/28,35.96
+P0180,Add Hard Basic,Apparel & Accessories,S015,84191.98,774,discontinued,2025/08/30,40.17
+P0181,Television Number Cover Plus,Electronics,S011,337894.82,968,active,2025/08/30,33.34
+P0182,Sing Peace Deluxe,Electronics,S010,119533.08,924,coming soon,2025/09/02,9.73
+P0183,All Democratic Write Power Deluxe,Sports & Outdoors,S014,241111.6,399,outofstock,2025/09/05,4.1
+P0184,Hair Agree Family Week Pro,Books & Media,S004,248558.64,-7,outofstock,2025/09/07,40.54
+P0185,Very Eat Song Edge Basic,Toys & Games,S015,2233.51,1147,outofstock,2025/09/13,33.02
+P0186,Event Detail Box By Basic,Health & Beauty,S006,57997.57,-15,outofstock,2025/09/14,0
+P0187,Environment Key Oil Deluxe,Automotive Parts,S003,33339.37,832,discontinued,2025/09/15,47.22
+P0188,Free Foreign Former Wind Deluxe,Automotive Parts,S001,170678.66,693,discontinued,2025/09/16,0
+P0189,Real Special Deluxe,Office Supplies,S015,149939.95,157,discontinued,2025/09/16,32.19
+P0190,Establish Each We Police Pro,Automotive Parts,S012,-1000,788,discontinued,2025/09/25,15.35
+P0191,Ask Base 769,Apparel & Accessories,S008,73128.67,649,active,2025/07/10,39.19
+P0192,May Energy Able 364,Apparel & Accessories,S015,212838.31,638,discontinued,2025/10/17,19.62
+P0193,Attorney Purpose Community Food Eco,Health & Beauty,S013,131966.57,411,coming soon,2025/10/19,13.25
+P0194,Final Sell Father Plus,Toys & Games,S015,120633.77,0,outofstock,2025/10/23,41.35
+P0195,Gas Tonight Basic,Groceries & Gourmet Food,S005,34116.56,-25,outofstock,2025/10/29,0
+P0196,Woven Throughout To Up Economy Basic,Nigerian Fashion,S006,78385.39,1327,active,2025/10/29,26.93
+P0197,Kitchen Stand Yard Plus,Health & Beauty,S013,79418.2,639,active,2025/11/06,7.4
+P0198,Employee Difference Same Ball Deluxe,Home & Kitchen,S007,47445.7,168,coming soon,2025/11/07,30.06
+P0199,Fund Message For Writer Pro,Home & Kitchen,S003,6758.15,423,active,2025/11/12,4.82
+P0200,Second Necessary Unit Pro,Books & Media,S003,213745.87,399,outofstock,2025/11/15,36.48
