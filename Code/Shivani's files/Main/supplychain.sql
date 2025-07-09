@@ -322,15 +322,4 @@ ORDER BY
 
 # S004 (Brown Group) and S011 (Moore Group) also show serious quality and fulfillment issues through return counts and stockouts.
 
-select distinct paymentstatus;
--- payment status missing
- SELECT OrderStatus,
-         COUNT(*) AS Count
-     FROM orders
-     WHERE PaymentStatus IS NULL
-     GROUP BY OrderStatus
-     ORDER BY COUNT(*) DESC;
-     
-select * from customers;
-select * from supplier;
-select * from products;
+
