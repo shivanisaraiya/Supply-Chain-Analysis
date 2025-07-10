@@ -114,7 +114,8 @@ SELECT avg_stock from average_stock_ph;
 --    customers acquired  since March 2024 (RegistrationDate > 2024-03-01),
 --    and if this correlates with lower initial repeat purchase rates from these new customers
  
- -- 2.1 Customers Acquired since March 2024
+ /* 2.1 Customers Acquired since March
+    2024 */
  WITH new_customers AS (
   SELECT 
   CustomerID AS customers_acquired_since_march_2024
@@ -124,10 +125,7 @@ SELECT avg_stock from average_stock_ph;
 SELECT COUNT(*) AS customer_acquired_2024 FROM new_customers;
 
 
--- SELECT 
--- COUNT(*) AS total_customer_count, -- total customers
--- COUNT(CASE WHEN RegistrationDate >='2024-03-01' THEN 1 END) AS customers_acquired_since_march_2024, -- customers since march 2024
--- COUNT(CASE WHEN RegistrationDate <'2024-03-01' THEN 1 END) AS customers_acquired_till_march_2024 FROM customers; -- customers till march 2024
+
   
  -- 2.2 Finding Delivery Delay where Actual Delivery date exceeds Expected Delivery date affecting newly acquired customers
 -- Delivery delay (includes outliers)
